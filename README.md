@@ -1,5 +1,7 @@
 ## Welcome to My Data Science Portfolio!
-## Hi there 👋 I’m Mayur Harisangam, a passionate Data Scientist who loves uncovering insights from data and building machine learning models to solve real-world problems. This GitHub repository serves as a showcase of my projects, where I apply various data science techniques, machine learning models, and statistical methods to extract meaningful insights and drive data-driven decisions.
+## Hi there 👋 I’m Mayur Harisangam, a passionate Data Scientist who loves uncovering insights from data and building machine learning models to solve real-world problems. 
+
+This GitHub repository serves as a showcase of my projects, where I apply various data science techniques, machine learning models, and statistical methods to extract meaningful insights and drive data-driven decisions.
 
 <!--
 **IamMayur95/IamMayur95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
