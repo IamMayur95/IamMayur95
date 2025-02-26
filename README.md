@@ -41,3 +41,9 @@ Here are some of the key projects I have worked on:
 - 🔗 LinkedIn: www.linkedin.com/in/mayur-harisangam-38b25b1b4
 
 Let’s collaborate and explore the world of data together! 🚀
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMayur95&layout=compact&show_icons=true&theme=radical)
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=IamMayur95&show_icons=true&theme=radical)
