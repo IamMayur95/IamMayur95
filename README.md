@@ -34,7 +34,7 @@ Here are some of the key projects I have worked on:
 
 2. Claim-Opinion-Classifier-TikTok
 - 🔹 Overview: The goal of this project was to create a random forest model and XGBoost to classify TikTok videos as claims of opinions. This project utilized a synthetic dataset created in association with TikTok. A data dictionary has been added to assist in the understanding to the dataset. The final random forest model performed with 99.5% Recall . Performance on the test holdout data yielded near perfect scores, with only five misclassified samples out of 3,817 . Also determined what features were most important in separating claims and opinions. Based on the model, video view count , video like count and video share count were the most influential in determining a video to be a claim or an opinion.
-- 🔹 Tech Stack: Python, Pandas, Scikit-Learn , Logistic Regression , Random Forrest 
+- 🔹 Tech Stack: Python, Pandas, Scikit-Learn, Logistic Regression , Random Forrest 
 
 📬 Connect With Me 
 - 📧 Email: mayurharisangam10@gmail.com
